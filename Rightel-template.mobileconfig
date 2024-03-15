@@ -38,7 +38,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.cellular</string>
 				<key>PayloadUUID</key>
-				<string>4e4a565a-5483-4a9b-b9af-1976068b5af3</string>
+				<string>0c5a0626-3e8f-4926-b4bf-79dfb5502298</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -54,7 +54,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>3be49d14-fb7b-4dbc-a9d3-737786055ad5</string>
+		<string>2675cf1f-cccd-4846-934f-3ecb04bd7b1d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
